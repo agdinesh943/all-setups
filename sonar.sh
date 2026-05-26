@@ -12,3 +12,14 @@ su - sonar
 #run this on server manually
 #sh /opt/sonarqube-8.9.6.50800/bin/linux/sonar.sh start
 #echo "user=admin & password=admin"
+
+#steps after installation :
+# 1. cd /opt
+# 2. ll
+# 3. cd sonarqube-8.9.6.50800/
+# 4. ll
+# 5. cd bin
+# 6. ll
+# 7. cd linux-x86-64/
+# 8. ll
+# 9. ./sonar.sh start
